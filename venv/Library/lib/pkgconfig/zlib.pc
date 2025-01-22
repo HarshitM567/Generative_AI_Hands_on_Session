@@ -1,0 +1,13 @@
+prefix=D:/Generative AI Certification/Python/venv2/Library
+exec_prefix=D:/Generative AI Certification/Python/venv2/Library
+libdir=D:/Generative AI Certification/Python/venv2/Library/lib
+sharedlibdir=D:/Generative AI Certification/Python/venv2/Library/lib
+includedir=D:/Generative AI Certification/Python/venv2/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
