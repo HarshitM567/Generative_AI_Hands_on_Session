@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a611fa8b-437a-469d-8c3f-de1c8a7a463d" name="Changes" comment="Lambda Functions">
+      <change afterPath="$PROJECT_DIR$/Map functions.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HarshitM567&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HarshitM567/Generative_AI_Hands_on_Session.git&quot;,
+    &quot;accountId&quot;: &quot;29c8d4ef-2113-417f-9262-08955cd2e1cb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pI96J2FeifWgkr7aU0q3gWspjP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Generative AI Certification/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a611fa8b-437a-469d-8c3f-de1c8a7a463d" name="Changes" comment="" />
+      <created>1732442550444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732442550444</updated>
+      <workItem from="1732442553137" duration="2916000" />
+      <workItem from="1733418011383" duration="3483000" />
+      <workItem from="1733764140062" duration="1247000" />
+      <workItem from="1735559797698" duration="4006000" />
+      <workItem from="1737522394021" duration="4624000" />
+      <workItem from="1737527248690" duration="863000" />
+      <workItem from="1737888911607" duration="4921000" />
+      <workItem from="1737894018622" duration="5295000" />
+      <workItem from="1737973635948" duration="9774000" />
+      <workItem from="1738579003849" duration="2575000" />
+      <workItem from="1738586369134" duration="3255000" />
+      <workItem from="1738777706603" duration="1063000" />
+      <workItem from="1738916817579" duration="9860000" />
+      <workItem from="1739193931060" duration="2400000" />
+    </task>
+    <task id="LOCAL-00001" summary="Python Introduction">
+      <option name="closed" value="true" />
+      <created>1737526508424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737526508424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python Introduction">
+      <option name="closed" value="true" />
+      <created>1737526725291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737526725292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python Control flow">
+      <option name="closed" value="true" />
+      <created>1737893500276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737893500277</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Python Lists">
+      <option name="closed" value="true" />
+      <created>1737975491216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737975491216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Pyton Control Flow">
+      <option name="closed" value="true" />
+      <created>1737975535647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737975535647</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Pyton Lists">
+      <option name="closed" value="true" />
+      <created>1737975690005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737975690005</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Pyton Tuples">
+      <option name="closed" value="true" />
+      <created>1737979283188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737979283188</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pyton Dictionaries">
+      <option name="closed" value="true" />
+      <created>1738918611064</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738918611064</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pyton Functions">
+      <option name="closed" value="true" />
+      <created>1738922384587</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738922384587</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lambda Functions">
+      <option name="closed" value="true" />
+      <created>1738924665270</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738924665270</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python Introduction" />
+    <MESSAGE value="Python Control flow" />
+    <MESSAGE value="Python Lists" />
+    <MESSAGE value="Pyton Control Flow" />
+    <MESSAGE value="Pyton Lists" />
+    <MESSAGE value="Pyton Tuples" />
+    <MESSAGE value="Pyton Dictionaries" />
+    <MESSAGE value="Pyton Functions" />
+    <MESSAGE value="Lambda Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Functions" />
+  </component>
+</project>
